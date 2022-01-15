@@ -1,0 +1,1186 @@
+[
+    {
+      "name-fa" : "نوبینکس",
+      "name-en" : "Nobitex",
+      "icon" : "/nobitext_icon.jpg",
+      "website" : "https://nobitex.ir/",
+      "email" : "support@nobitex.ir",
+      "phone" : "021-91009925",
+      "description" : "خرید و فروش امن بیت‌کوین و ارزهای دیجیتال",
+      "applications" : [
+        {
+          "name" : "کافه بازار",
+          "url" : "https://cafebazaar.ir/app/?id=market.nobitex"
+        },
+        {
+          "name" : "مایکت",
+          "url" : "https://myket.ir/app/market.nobitex"
+        },
+        {
+          "name" : "مخصوص دستگاه های هووای",
+          "url" : "https://cdn.nobitex.ir/nobitex-huawei.apk"
+        },
+        {
+          "name" : "دریافت مستقیم",
+          "url" : "https://cdn.nobitex.ir/nobitex.apk"
+        }
+      ],
+      "social" : [
+        {
+          "name" : "اینستاگرام",
+          "url" : "https://www.instagram.com/nobitex_market/"
+        },
+        {
+          "name" : "لینکدین",
+          "url" : "https://www.linkedin.com/company/nobitexmarket/"
+        },
+        {
+          "name" : "تلگرام",
+          "url" : "https://t.me/nobitexmarket/"
+        },
+        {
+          "name" : "توییتر",
+          "url" : "https://twitter.com/nobitexmarket/"
+        }
+      ]
+    },
+    {
+      "name-fa" : "رمزینکس",
+      "name-en" : "Ramzinex",
+      "icon" : "/ramzinex_icon.jpg",
+      "website" : "https://ramzinex.com/",
+      "email" : "Support@Ramzinex.com",
+      "phone" : "021-62999214",
+      "description" : "صرافی آنلاین خرید ارز دیجیتال",
+      "applications" : [
+        {
+          "name" : "کافه بازار",
+          "url" : "https://cafebazaar.ir/app/com.ramzinex.ramzinex"
+        },
+        {
+          "name" : "سیبچه - ios",
+          "url" : "https://iapps.ir/app/%D8%B1%D9%85%D8%B2%DB%8C%D9%86%DA%A9%D8%B3-%D8%AA%D8%B1%DB%8C%D8%AF%D8%B1/298930702"
+        },
+        {
+          "name" : "دانلود مستقیم",
+          "url" : "https://ramzinex.com/exchange/Ramzinex2.apk"
+        },
+        {
+          "name" : "وب اپلیکیشن",
+          "url" : "https://ramzinex.com/exchange/pt"
+        }
+      ],
+      "social" : [
+        {
+          "name" : "اینستاگرام",
+          "url" : "https://www.instagram.com/ramzinex_com"
+        },
+        {
+          "name" : "توییتر",
+          "url" : "https://twitter.com/ramzinex_com"
+        },
+        {
+          "name" : "تلگرام",
+          "url" : "https://t.me/ramzinex_com"
+        },
+        {
+          "name" : "آپارات",
+          "url" : "https://www.aparat.com/ramzinex"
+        }
+      ]
+    },
+    {
+      "name-fa" : "آبان تتر",
+      "name-en" : "Aban tether",
+      "icon" : "/abantether_icon.jpg",
+      "website" : "https://abantether.com/app/app/dashboards/default/quick",
+      "email" : "",
+      "phone" : "021-91079682",
+      "description" : "",
+      "applications" : [
+        {
+          "name" : "اندروید - گوگل پلی",
+          "url" : "https://play.google.com/store/apps/details?id=com.abantether.app"
+        }
+      ],
+      "social" : [
+        {
+          "name" : "تلگرام",
+          "url" : "https://t.me/AbanTether"
+        },
+        {
+          "name" : "اینستاگرام",
+          "url" : "https://www.instagram.com/abantether/"
+        }
+      ]
+    },
+    {
+      "name-fa" : "اوکی اکسچنج",
+      "name-en" : "ok-ex",
+      "icon" : "/ok-ex_icon.jpg",
+      "website" : "https://ok-ex.io/",
+      "email" : "support@ok-ex.io",
+      "phone" : "051-91001040",
+      "description" : "خرید ارز دیجیتال، به صورت ساده، حرفه ای، سریع و امن",
+      "applications" : [
+        {
+          "name" : "گوگل پلی",
+          "url" : "https://play.google.com/store/apps/details?id=co.okex.app"
+        },
+        {
+          "name" : "مایکت",
+          "url" : "https://myket.ir/app/co.okex.app"
+        },
+        {
+          "name" : "کافه بازار",
+          "url" : "https://cafebazaar.ir/app/co.okex.app"
+        },
+        {
+          "name" : "لینک مستقیم",
+          "url" : "https://dl.ok-ex.io/app/base.apk"
+        }
+      ],
+      "social" : [
+        {
+          "name" : "ایسنستاگرام",
+          "url" : "https://www.instagram.com/okex.ir"
+        },
+        {
+          "name" : "تلگرام",
+          "url" : "https://t.me/Okexir"
+        },
+        {
+          "name" : "آپارات",
+          "url" : "https://www.aparat.com/okex"
+        },
+        {
+          "name" : "توییتر",
+          "url" : "https://twitter.com/okexir"
+        }
+      ]
+    },
+    {
+      "name-fa" : "والکس",
+      "name-en" : "Wallex",
+      "icon" : "/wallex_icon.jpg",
+      "website" : "https://wallex.ir/",
+      "email" : "info@wallex.ir",
+      "phone" : "021-91006555",
+      "description" : "بازار معامله‌های ارزهای دیجیتال",
+      "applications" : [
+
+      ],
+      "social" : [
+        {
+          "name" : "اینستاگرام",
+          "url" : "https://www.instagram.com/wallexchange"
+        },
+        {
+          "name" : "تلگرام",
+          "url" : "https://t.me/WallexChange"
+        },
+        {
+          "name" : "لینکدین",
+          "url" : "https://www.linkedin.com/company/wallexexchange"
+        }
+      ]
+    },
+    {
+      "name-fa" : "سرمایکس",
+      "name-en" : "Sarmayex",
+      "icon" : "/sarmayex_icon.jpg",
+      "website" : "https://sarmayex.com/",
+      "email" : "support@sarmayex.com",
+      "phone" : "021-91070060",
+      "description" : "خرید ارز دیجیتال , فروش ارز دیجیتال",
+      "applications" : [
+        {
+          "name" : "گوگل پلی",
+          "url" : "https://play.google.com/store/apps/details?id=com.arzjoo"
+        }
+      ],
+      "social" : [
+        {
+          "name" : "تلگرام",
+          "url" : "https://t.me/sarmayex_finance"
+        },
+        {
+          "name" : "اینستاگرام",
+          "url" : "https://instagram.com/sarmayex.finance"
+        },
+        {
+          "name" : "توییتر",
+          "url" : "https://twitter.com/sarmayex"
+        },
+        {
+          "name" : "آپارات",
+          "url" : "https://www.aparat.com/sarmayex"
+        }
+      ]
+    },
+    {
+      "name-fa" : "فینیکس",
+      "name-en" : "Phinix",
+      "icon" : "/phinix_icon.jpg",
+      "website" : "https://phinix.ir/",
+      "email" : "info@phinix.ir",
+      "phone" : "021-91009889",
+      "description" : "با فینیکس، خرید و فروش ارزهای دیجیتال را در محیطی امن و حرفه‌ای تجربه کنید.",
+      "applications" : [
+        {
+          "name" : "لینک مستقیم",
+          "url" : "https://storage.phinix.ir/media/application/android/phinix-v1.5.3.apk"
+        },
+        {
+          "name" : "کافه بازار",
+          "url" : "https://cafebazaar.ir/app/com.phinix.phinixapp"
+        },
+        {
+          "name" : "مایکت",
+          "url" : "https://myket.ir/app/com.phinix.phinixapp"
+        },
+        {
+          "name" : "سیب اپ",
+          "url" : "https://sibapp.com/applications/PHINIX"
+        },
+        {
+          "name" : "سیب چه",
+          "url" : "https://sibche.com/applications/phinix"
+        },
+        {
+          "name" : "آی اپس",
+          "url" : "https://iapps.ir/app/%D9%81%DB%8C%D9%86%DB%8C%DA%A9%D8%B3-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%A7%D8%B1%D8%B2%D9%87%D8%A7%DB%8C-%D8%AF%DB%8C%D8%AC%DB%8C%D8%AA%D8%A7%D9%84/779704028"
+        }
+      ],
+      "social" : [
+        {
+          "name" : "لینکدین",
+          "url" : "https://www.linkedin.com/company/phinixexchange"
+        },
+        {
+          "name" : "اینستاگرام",
+          "url" : "https://www.instagram.com/phinix_corp"
+        },
+        {
+          "name" : "فیسبوک",
+          "url" : "https://facebook.com/phinix.ir"
+        },
+        {
+          "name" : "یوتیوب",
+          "url" : "https://www.youtube.com/channel/UCY_jWUsi7Tet3sjOaikYMTg"
+        },
+        {
+          "name" : "توییتر",
+          "url" : "https://twitter.com/phinix_corp"
+        },
+        {
+          "name" : "تلگرام",
+          "url" : "https://t.me/phinix_corp"
+        }
+      ]
+    },
+    {
+      "name-fa" : "جیبیتکس",
+      "name-en" : "Jibitex",
+      "icon" : "/jibitex_icon.jpg",
+      "website" : "https://jibitex.com/",
+      "email" : "support@jibitex.com",
+      "phone" : "021-88654441",
+      "description" : "",
+      "applications" : [
+
+      ],
+      "social" : [
+        {
+          "name" : "اینستاگرام",
+          "url" : "https://www.instagram.com/jibitexofficial"
+        },
+        {
+          "name" : "تلگرام",
+          "url" : "https://t.me/jibitex"
+        },
+        {
+          "name" : "توییتر",
+          "url" : "https://twitter.com/Jibitexofficial"
+        },
+        {
+          "name" : "واتس اپ",
+          "url" : "https://wa.me/989339628034"
+        },
+        {
+          "name" : "آپارات",
+          "url" : "https://www.aparat.com/jibitex"
+        },
+        {
+          "name" : "یوتیوب",
+          "url" : "https://www.youtube.com/channel/UCvh8BTcbQLbxgtS2xktthew"
+        }
+      ]
+    },
+    {
+      "name-fa" : "ارزینجا",
+      "name-en" : "Arzinja",
+      "icon" : "/arzinjaa_icon.jpg",
+      "website" : "https://arzinja.info/",
+      "email" : "info@arzinja.info",
+      "phone" : "02122658136",
+      "description" : "بستری امن برای ارزهای دیجیتالی",
+      "applications" : [
+        {
+          "name" : "کافه بازار",
+          "url" : "https://cafebazaar.ir/app/com.arzinja.app"
+        },
+        {
+          "name" : "دانلود مستقیم",
+          "url" : "https://arzinja.app/new.apk"
+        }
+      ],
+      "social" : [
+        {
+          "name" : "اینستاگرام",
+          "url" : "https://instagram.com/_u/arzinja.info"
+        },
+        {
+          "name" : "تلگرام",
+          "url" : "https://t.me/Arzinjaa"
+        },
+        {
+          "name" : "توییتر",
+          "url" : "https://twitter.com/arzinja"
+        },
+        {
+          "name" : "نماشا",
+          "url" : "https://www.namasha.com/arzinja"
+        },
+        {
+          "name" : "آپارت",
+          "url" : "https://www.aparat.com/arzinja"
+        }
+      ]
+    },
+    {
+      "name-fa" : "کوین کده",
+      "name-en" : "Coinkade",
+      "icon" : "",
+      "website" : "https://coinkade.com/",
+      "email" : "",
+      "phone" : "02191311300",
+      "description" : "کوین کده، درگاه تبادل ارز‌ها",
+      "applications" : [
+
+      ],
+      "social" : [
+        
+      ]
+    },
+    {
+      "name-fa" : "",
+      "name-en" : "",
+      "icon" : "",
+      "website" : "",
+      "email" : "",
+      "phone" : "",
+      "description" : "",
+      "applications" : [
+        {
+          "name" : "",
+          "url" : ""
+        },
+        {
+          "name" : "",
+          "url" : ""
+        },
+        {
+          "name" : "",
+          "url" : ""
+        },
+        {
+          "name" : "",
+          "url" : ""
+        }
+      ],
+      "social" : [
+        {
+          "name" : "",
+          "url" : ""
+        },
+        {
+          "name" : "",
+          "url" : ""
+        },
+        {
+          "name" : "",
+          "url" : ""
+        },
+        {
+          "name" : "",
+          "url" : ""
+        }
+      ]
+    },
+    {
+      "name-fa" : "",
+      "name-en" : "",
+      "icon" : "",
+      "website" : "",
+      "email" : "",
+      "phone" : "",
+      "description" : "",
+      "applications" : [
+        {
+          "name" : "",
+          "url" : ""
+        },
+        {
+          "name" : "",
+          "url" : ""
+        },
+        {
+          "name" : "",
+          "url" : ""
+        },
+        {
+          "name" : "",
+          "url" : ""
+        }
+      ],
+      "social" : [
+        {
+          "name" : "",
+          "url" : ""
+        },
+        {
+          "name" : "",
+          "url" : ""
+        },
+        {
+          "name" : "",
+          "url" : ""
+        },
+        {
+          "name" : "",
+          "url" : ""
+        }
+      ]
+    },
+    {
+      "name-fa" : "",
+      "name-en" : "",
+      "icon" : "",
+      "website" : "",
+      "email" : "",
+      "phone" : "",
+      "description" : "",
+      "applications" : [
+        {
+          "name" : "",
+          "url" : ""
+        },
+        {
+          "name" : "",
+          "url" : ""
+        },
+        {
+          "name" : "",
+          "url" : ""
+        },
+        {
+          "name" : "",
+          "url" : ""
+        }
+      ],
+      "social" : [
+        {
+          "name" : "",
+          "url" : ""
+        },
+        {
+          "name" : "",
+          "url" : ""
+        },
+        {
+          "name" : "",
+          "url" : ""
+        },
+        {
+          "name" : "",
+          "url" : ""
+        }
+      ]
+    },
+    {
+      "name-fa" : "",
+      "name-en" : "",
+      "icon" : "",
+      "website" : "",
+      "email" : "",
+      "phone" : "",
+      "description" : "",
+      "applications" : [
+        {
+          "name" : "",
+          "url" : ""
+        },
+        {
+          "name" : "",
+          "url" : ""
+        },
+        {
+          "name" : "",
+          "url" : ""
+        },
+        {
+          "name" : "",
+          "url" : ""
+        }
+      ],
+      "social" : [
+        {
+          "name" : "",
+          "url" : ""
+        },
+        {
+          "name" : "",
+          "url" : ""
+        },
+        {
+          "name" : "",
+          "url" : ""
+        },
+        {
+          "name" : "",
+          "url" : ""
+        }
+      ]
+    },
+    {
+      "name-fa" : "",
+      "name-en" : "",
+      "icon" : "",
+      "website" : "",
+      "email" : "",
+      "phone" : "",
+      "description" : "",
+      "applications" : [
+        {
+          "name" : "",
+          "url" : ""
+        },
+        {
+          "name" : "",
+          "url" : ""
+        },
+        {
+          "name" : "",
+          "url" : ""
+        },
+        {
+          "name" : "",
+          "url" : ""
+        }
+      ],
+      "social" : [
+        {
+          "name" : "",
+          "url" : ""
+        },
+        {
+          "name" : "",
+          "url" : ""
+        },
+        {
+          "name" : "",
+          "url" : ""
+        },
+        {
+          "name" : "",
+          "url" : ""
+        }
+      ]
+    },
+    {
+      "name-fa" : "",
+      "name-en" : "",
+      "icon" : "",
+      "website" : "",
+      "email" : "",
+      "phone" : "",
+      "description" : "",
+      "applications" : [
+        {
+          "name" : "",
+          "url" : ""
+        },
+        {
+          "name" : "",
+          "url" : ""
+        },
+        {
+          "name" : "",
+          "url" : ""
+        },
+        {
+          "name" : "",
+          "url" : ""
+        }
+      ],
+      "social" : [
+        {
+          "name" : "",
+          "url" : ""
+        },
+        {
+          "name" : "",
+          "url" : ""
+        },
+        {
+          "name" : "",
+          "url" : ""
+        },
+        {
+          "name" : "",
+          "url" : ""
+        }
+      ]
+    },
+    {
+      "name-fa" : "",
+      "name-en" : "",
+      "icon" : "",
+      "website" : "",
+      "email" : "",
+      "phone" : "",
+      "description" : "",
+      "applications" : [
+        {
+          "name" : "",
+          "url" : ""
+        },
+        {
+          "name" : "",
+          "url" : ""
+        },
+        {
+          "name" : "",
+          "url" : ""
+        },
+        {
+          "name" : "",
+          "url" : ""
+        }
+      ],
+      "social" : [
+        {
+          "name" : "",
+          "url" : ""
+        },
+        {
+          "name" : "",
+          "url" : ""
+        },
+        {
+          "name" : "",
+          "url" : ""
+        },
+        {
+          "name" : "",
+          "url" : ""
+        }
+      ]
+    },
+    {
+      "name-fa" : "",
+      "name-en" : "",
+      "icon" : "",
+      "website" : "",
+      "email" : "",
+      "phone" : "",
+      "description" : "",
+      "applications" : [
+        {
+          "name" : "",
+          "url" : ""
+        },
+        {
+          "name" : "",
+          "url" : ""
+        },
+        {
+          "name" : "",
+          "url" : ""
+        },
+        {
+          "name" : "",
+          "url" : ""
+        }
+      ],
+      "social" : [
+        {
+          "name" : "",
+          "url" : ""
+        },
+        {
+          "name" : "",
+          "url" : ""
+        },
+        {
+          "name" : "",
+          "url" : ""
+        },
+        {
+          "name" : "",
+          "url" : ""
+        }
+      ]
+    },
+    {
+      "name-fa" : "",
+      "name-en" : "",
+      "icon" : "",
+      "website" : "",
+      "email" : "",
+      "phone" : "",
+      "description" : "",
+      "applications" : [
+        {
+          "name" : "",
+          "url" : ""
+        },
+        {
+          "name" : "",
+          "url" : ""
+        },
+        {
+          "name" : "",
+          "url" : ""
+        },
+        {
+          "name" : "",
+          "url" : ""
+        }
+      ],
+      "social" : [
+        {
+          "name" : "",
+          "url" : ""
+        },
+        {
+          "name" : "",
+          "url" : ""
+        },
+        {
+          "name" : "",
+          "url" : ""
+        },
+        {
+          "name" : "",
+          "url" : ""
+        }
+      ]
+    },
+    {
+      "name-fa" : "",
+      "name-en" : "",
+      "icon" : "",
+      "website" : "",
+      "email" : "",
+      "phone" : "",
+      "description" : "",
+      "applications" : [
+        {
+          "name" : "",
+          "url" : ""
+        },
+        {
+          "name" : "",
+          "url" : ""
+        },
+        {
+          "name" : "",
+          "url" : ""
+        },
+        {
+          "name" : "",
+          "url" : ""
+        }
+      ],
+      "social" : [
+        {
+          "name" : "",
+          "url" : ""
+        },
+        {
+          "name" : "",
+          "url" : ""
+        },
+        {
+          "name" : "",
+          "url" : ""
+        },
+        {
+          "name" : "",
+          "url" : ""
+        }
+      ]
+    },
+    {
+      "name-fa" : "",
+      "name-en" : "",
+      "icon" : "",
+      "website" : "",
+      "email" : "",
+      "phone" : "",
+      "description" : "",
+      "applications" : [
+        {
+          "name" : "",
+          "url" : ""
+        },
+        {
+          "name" : "",
+          "url" : ""
+        },
+        {
+          "name" : "",
+          "url" : ""
+        },
+        {
+          "name" : "",
+          "url" : ""
+        }
+      ],
+      "social" : [
+        {
+          "name" : "",
+          "url" : ""
+        },
+        {
+          "name" : "",
+          "url" : ""
+        },
+        {
+          "name" : "",
+          "url" : ""
+        },
+        {
+          "name" : "",
+          "url" : ""
+        }
+      ]
+    },
+    {
+      "name-fa" : "",
+      "name-en" : "",
+      "icon" : "",
+      "website" : "",
+      "email" : "",
+      "phone" : "",
+      "description" : "",
+      "applications" : [
+        {
+          "name" : "",
+          "url" : ""
+        },
+        {
+          "name" : "",
+          "url" : ""
+        },
+        {
+          "name" : "",
+          "url" : ""
+        },
+        {
+          "name" : "",
+          "url" : ""
+        }
+      ],
+      "social" : [
+        {
+          "name" : "",
+          "url" : ""
+        },
+        {
+          "name" : "",
+          "url" : ""
+        },
+        {
+          "name" : "",
+          "url" : ""
+        },
+        {
+          "name" : "",
+          "url" : ""
+        }
+      ]
+    },
+    {
+      "name-fa" : "",
+      "name-en" : "",
+      "icon" : "",
+      "website" : "",
+      "email" : "",
+      "phone" : "",
+      "description" : "",
+      "applications" : [
+        {
+          "name" : "",
+          "url" : ""
+        },
+        {
+          "name" : "",
+          "url" : ""
+        },
+        {
+          "name" : "",
+          "url" : ""
+        },
+        {
+          "name" : "",
+          "url" : ""
+        }
+      ],
+      "social" : [
+        {
+          "name" : "",
+          "url" : ""
+        },
+        {
+          "name" : "",
+          "url" : ""
+        },
+        {
+          "name" : "",
+          "url" : ""
+        },
+        {
+          "name" : "",
+          "url" : ""
+        }
+      ]
+    },
+    {
+      "name-fa" : "",
+      "name-en" : "",
+      "icon" : "",
+      "website" : "",
+      "email" : "",
+      "phone" : "",
+      "description" : "",
+      "applications" : [
+        {
+          "name" : "",
+          "url" : ""
+        },
+        {
+          "name" : "",
+          "url" : ""
+        },
+        {
+          "name" : "",
+          "url" : ""
+        },
+        {
+          "name" : "",
+          "url" : ""
+        }
+      ],
+      "social" : [
+        {
+          "name" : "",
+          "url" : ""
+        },
+        {
+          "name" : "",
+          "url" : ""
+        },
+        {
+          "name" : "",
+          "url" : ""
+        },
+        {
+          "name" : "",
+          "url" : ""
+        }
+      ]
+    },
+    {
+      "name-fa" : "",
+      "name-en" : "",
+      "icon" : "",
+      "website" : "",
+      "email" : "",
+      "phone" : "",
+      "description" : "",
+      "applications" : [
+        {
+          "name" : "",
+          "url" : ""
+        },
+        {
+          "name" : "",
+          "url" : ""
+        },
+        {
+          "name" : "",
+          "url" : ""
+        },
+        {
+          "name" : "",
+          "url" : ""
+        }
+      ],
+      "social" : [
+        {
+          "name" : "",
+          "url" : ""
+        },
+        {
+          "name" : "",
+          "url" : ""
+        },
+        {
+          "name" : "",
+          "url" : ""
+        },
+        {
+          "name" : "",
+          "url" : ""
+        }
+      ]
+    },
+    {
+      "name-fa" : "",
+      "name-en" : "",
+      "icon" : "",
+      "website" : "",
+      "email" : "",
+      "phone" : "",
+      "description" : "",
+      "applications" : [
+        {
+          "name" : "",
+          "url" : ""
+        },
+        {
+          "name" : "",
+          "url" : ""
+        },
+        {
+          "name" : "",
+          "url" : ""
+        },
+        {
+          "name" : "",
+          "url" : ""
+        }
+      ],
+      "social" : [
+        {
+          "name" : "",
+          "url" : ""
+        },
+        {
+          "name" : "",
+          "url" : ""
+        },
+        {
+          "name" : "",
+          "url" : ""
+        },
+        {
+          "name" : "",
+          "url" : ""
+        }
+      ]
+    },
+    {
+      "name-fa" : "",
+      "name-en" : "",
+      "icon" : "",
+      "website" : "",
+      "email" : "",
+      "phone" : "",
+      "description" : "",
+      "applications" : [
+        {
+          "name" : "",
+          "url" : ""
+        },
+        {
+          "name" : "",
+          "url" : ""
+        },
+        {
+          "name" : "",
+          "url" : ""
+        },
+        {
+          "name" : "",
+          "url" : ""
+        }
+      ],
+      "social" : [
+        {
+          "name" : "",
+          "url" : ""
+        },
+        {
+          "name" : "",
+          "url" : ""
+        },
+        {
+          "name" : "",
+          "url" : ""
+        },
+        {
+          "name" : "",
+          "url" : ""
+        }
+      ]
+    },
+    {
+      "name-fa" : "",
+      "name-en" : "",
+      "icon" : "",
+      "website" : "",
+      "email" : "",
+      "phone" : "",
+      "description" : "",
+      "applications" : [
+        {
+          "name" : "",
+          "url" : ""
+        },
+        {
+          "name" : "",
+          "url" : ""
+        },
+        {
+          "name" : "",
+          "url" : ""
+        },
+        {
+          "name" : "",
+          "url" : ""
+        }
+      ],
+      "social" : [
+        {
+          "name" : "",
+          "url" : ""
+        },
+        {
+          "name" : "",
+          "url" : ""
+        },
+        {
+          "name" : "",
+          "url" : ""
+        },
+        {
+          "name" : "",
+          "url" : ""
+        }
+      ]
+    }
+  ]
