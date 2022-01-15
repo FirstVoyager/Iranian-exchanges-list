@@ -374,92 +374,50 @@
       ]
     },
     {
-      "name-fa" : "",
-      "name-en" : "",
-      "icon" : "",
-      "website" : "",
+      "name-fa" : "صرافی",
+      "name-en" : "Sarafi",
+      "icon" : "/sarafi_icon.jpg",
+      "website" : "https://sarafi.io/",
       "email" : "",
-      "phone" : "",
-      "description" : "",
+      "phone" : "021-28427573",
+      "description" : "صرافی ارزهای دیجیتال",
       "applications" : [
-        {
-          "name" : "",
-          "url" : ""
-        },
-        {
-          "name" : "",
-          "url" : ""
-        },
-        {
-          "name" : "",
-          "url" : ""
-        },
-        {
-          "name" : "",
-          "url" : ""
-        }
+        
       ],
       "social" : [
         {
-          "name" : "",
-          "url" : ""
+          "name" : "اینستاگرام",
+          "url" : "https://www.instagram.com/sarafi_io/"
         },
         {
-          "name" : "",
-          "url" : ""
+          "name" : "تلگرام",
+          "url" : "https://t.me/sarafi_io"
         },
         {
-          "name" : "",
-          "url" : ""
-        },
-        {
-          "name" : "",
-          "url" : ""
+          "name" : "توییتر",
+          "url" : "https://twitter.com/Sarafi_io"
         }
       ]
     },
     {
-      "name-fa" : "",
-      "name-en" : "",
-      "icon" : "",
-      "website" : "",
+      "name-fa" : "اکس اونیکس",
+      "name-en" : "Exonyx",
+      "icon" : "/exonyx_icon.jpg",
+      "website" : "https://exonyx.ir/",
       "email" : "",
-      "phone" : "",
-      "description" : "",
+      "phone" : "044-35678896",
+      "description" : "خرید و فروش ارز دیجیتال",
       "applications" : [
-        {
-          "name" : "",
-          "url" : ""
-        },
-        {
-          "name" : "",
-          "url" : ""
-        },
-        {
-          "name" : "",
-          "url" : ""
-        },
-        {
-          "name" : "",
-          "url" : ""
-        }
+        
       ],
       "social" : [
         {
-          "name" : "",
-          "url" : ""
+          "name" : "ایسنستاگرام",
+          "url" : "https://instagram.com/exonyx_ir/"
         },
         {
-          "name" : "",
-          "url" : ""
-        },
-        {
-          "name" : "",
-          "url" : ""
-        },
-        {
-          "name" : "",
-          "url" : ""
+          "name" : "تلگرام",
+          "url" : "https://t.me/EXonyx"
         }
       ]
     },
