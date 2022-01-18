@@ -422,722 +422,371 @@
       ]
     },
     {
-      "name-fa" : "",
-      "name-en" : "",
-      "icon" : "",
-      "website" : "",
-      "email" : "",
-      "phone" : "",
-      "description" : "",
+      "name-fa" : "بیتکس 24",
+      "name-en" : "itex24",
+      "icon" : "/Bitex24_icon.png",
+      "website" : "https://bitex24.com/",
+      "email" : "support@bitex24.com",
+      "phone" : "021-91035417",
+      "description" : "بیتکس 24 بازار حرفه ای معاملات ارز دیجیتال",
+      "applications" : [
+        
+      ],
+      "social" : [
+        {
+          "name" : "اینستاگرام",
+          "url" : "https://www.instagram.com/bitex24"
+        },
+        {
+          "name" : "تلگرام",
+          "url" : "https://t.me/bitex24"
+        },
+        {
+          "name" : "فیسبوک",
+          "url" : "https://www.facebook.com/Bitex24"
+        },
+        {
+          "name" : "تلگرام",
+          "url" : "https://twitter.com/Bitex24_com"
+        }
+      ]
+    },
+    {
+      "name-fa" : " بیت ۲۴",
+      "name-en" : "bit24",
+      "icon" : "/bit24_icon.jpg",
+      "website" : "https://bit24.cash/",
+      "email" : "bit24cash@gmail.com",
+      "phone" : "021-28428770",
+      "description" : "خرید و فروش بیت کوین و ارزهای دیجیتال را آسان و امن انجام دهید",
       "applications" : [
         {
-          "name" : "",
-          "url" : ""
+          "name" : "گوگل پلی",
+          "url" : "https://play.google.com/store/apps/details?id=cash.bit24"
         },
         {
-          "name" : "",
-          "url" : ""
+          "name" : "کافه بازار",
+          "url" : "https://cafebazaar.ir/app/ir.myter.bit24"
         },
         {
-          "name" : "",
-          "url" : ""
-        },
-        {
-          "name" : "",
-          "url" : ""
+          "name" : "دانلود مستقیم",
+          "url" : "https://bit24.cash/bit24.apk"
         }
       ],
       "social" : [
         {
-          "name" : "",
-          "url" : ""
+          "name" : "اینستاگرام",
+          "url" : "https://www.instagram.com/bit24cash/"
         },
         {
-          "name" : "",
-          "url" : ""
+          "name" : "تلگرام",
+          "url" : "https://t.me/bit24cash"
         },
         {
-          "name" : "",
-          "url" : ""
+          "name" : "آپارات",
+          "url" : "https://www.aparat.com/ircc_com"
+        }
+      ]
+    },
+    {
+      "name-fa" : "دیجی اکسچنج",
+      "name-en" : "digiexchange",
+      "icon" : "/digiexchange_icon.jpg",
+      "website" : "https://digiexchange.biz/",
+      "email" : "info@digiexchange.net",
+      "phone" : "021-47629727",
+      "description" : "خرید و فروش بیت کوین و ارزهای دیجیتال",
+      "applications" : [
+        {
+          "name" : "گوگل پلی",
+          "url" : "https://play.google.com/store/apps/details?id=com.digi.exchange"
         },
         {
-          "name" : "",
-          "url" : ""
+          "name" : "وب اپ - ویژه ios",
+          "url" : "https://digiexchange.biz/app/"
+        }
+      ],
+      "social" : [
+        {
+          "name" : "اینستاگرام",
+          "url" : "http://www.instagram.com/digiexchange"
+        },
+        {
+          "name" : "تلگرام",
+          "url" : "https://t.me/digiexchangenews"
+        },
+        {
+          "name" : "توییتر",
+          "url" : "http://www.twitter.com/digiexchange2"
+        },
+        {
+          "name" : "فیسبوک",
+          "url" : "http://www.facebook.com/digiexchangenews"
+        }
+      ]
+    },
+    {
+      "name-fa" : "ایرانیکارت",
+      "name-en" : "iranicard",
+      "icon" : "/iranicard_icon.jpg",
+      "website" : "https://www.iranicard.ir/",
+      "email" : "",
+      "phone" : "021-91091000",
+      "description" : "خرید و فروش ارز دیجیتال",
+      "applications" : [
+       
+      ],
+      "social" : [
+        {
+          "name" : "توییتر",
+          "url" : "https://twitter.com/iranicard"
+        },
+        {
+          "name" : "فیسبوک",
+          "url" : "https://www.facebook.com/IraniCard-271349046918085"
+        },
+        {
+          "name" : "لینکدین",
+          "url" : "https://www.linkedin.com/company/iranicard"
+        },
+        {
+          "name" : "ایسنتاگرام",
+          "url" : "https://www.instagram.com/iranicardcom/"
+        },
+        {
+          "name" : "تلگرام",
+          "url" : "https://t.me/irani_card"
+        },
+        {
+          "name" : "یوتیوب",
+          "url" : "https://www.youtube.com/channel/UC3TnkbQnm9zUwU6ysvgOq1A"
+        }
+      ]
+    },
+    {
+      "name-fa" : "صرافی مون",
+      "name-en" : "sarafimoon",
+      "icon" : "/sarafimoon_icon.jpg",
+      "website" : "https://sarafimoon.com/",
+      "email" : "",
+      "phone" : "09011188907",
+      "description" : "صرافی مون ، خرید و فروش مطمئن و سریع",
+      "applications" : [
+        
+      ],
+      "social" : [
+        {
+          "name" : "تلگرام",
+          "url" : "https://t.me/sarafimoon"
+        },
+        {
+          "name" : "اینستاگرام",
+          "url" : "https://www.instagram.com/sarafimoon/"
+        }
+      ]
+    },
+    {
+      "name-fa" : "کوین‌نیک",
+      "name-en" : "coinnik",
+      "icon" : "/coinnik_icon.jpg",
+      "website" : "https://coinnik.com/",
+      "email" : "info@coinnik.com",
+      "phone" : "021-47612612",
+      "description" : "کوین‌نیک یک صرافی آنلاین ارز دیجیتال است.",
+      "applications" : [
+       
+      ],
+      "social" : [
+        {
+          "name" : "اینستاگرام",
+          "url" : "https://www.instagram.com/coinnik"
+        },
+        {
+          "name" : "تلگرام",
+          "url" : "https://t.me/coinnik"
+        },
+        {
+          "name" : "لینکدین",
+          "url" : "https://www.linkedin.com/company/coinnik"
+        },
+        {
+          "name" : "توییتر",
+          "url" : "https://twitter.com/Coinnikcrypto"
+        }
+      ]
+    },
+    {
+      "name-fa" : "پرشین والت",
+      "name-en" : "persianwallet",
+      "icon" : "/persianwallet_icon.jpg",
+      "website" : "https://persianwallet.com/",
+      "email" : "info@persianwallet.com",
+      "phone" : " 021-91010004",
+      "description" : "بازار معاملات آنلاین ارزهای دیجیتال",
+      "applications" : [
+        {
+          "name" : "کافه بازار",
+          "url" : "https://cafebazaar.ir/app/com.persianwallet.android"
+        },
+        {
+          "name" : "مایکت",
+          "url" : "https://myket.ir/app/com.persianwallet.android"
+        },
+        {
+          "name" : "لینوکس",
+          "url" : "https://filedn.com/lAxDamuK2iumhSna9kMyO1H/Persian%20Wallet/App/Linux/persianwallet-linux.zip"
+        },
+        {
+          "name" : "میکنتاش",
+          "url" : "https://filedn.com/lAxDamuK2iumhSna9kMyO1H/Persian%20Wallet/App/Mac%20OS/persianwallet-macos.dmg"
+        },
+        {
+          "name" : "ویندوز",
+          "url" : "https://filedn.com/lAxDamuK2iumhSna9kMyO1H/Persian%20Wallet/App/Windows/persianwallet-windows.exe"
+        }
+      ],
+      "social" : [
+        {
+          "name" : "فیسبوک",
+          "url" : "https://www.facebook.com/PersianWallet.Exchange"
+        },
+        {
+          "name" : "توییتر",
+          "url" : "https://twitter.com/PersianWallet"
+        },
+        {
+          "name" : "لینکدین",
+          "url" : "https://www.linkedin.com/company/persianwallet"
+        },
+        {
+          "name" : "یوتیوب",
+          "url" : "https://www.youtube.com/channel/UCeiYR0zcsG-4FK1NwBHPoQg"
+        },
+        {
+          "name" : "تلگرام",
+          "url" : "https://t.me/PersianWalletBot"
+        },
+        {
+          "name" : "مسینجر",
+          "url" : "https://m.me/PersianWallet.Exchange"
+        },
+        {
+          "name" : "اسلک",
+          "url" : "https://slack.com/oauth/authorize?scope=bot,%20chat:write:bot,%20im:read&client_id=1904988564193.1898545242548&redirect_uri=http://smapi.gupshup.io/sm/api/slackwebhook/oauth/PersianWallet"
+        },
+        {
+          "name" : "اینستاگرام",
+          "url" : "https://www.instagram.com/persian.wallet/"
+        }
+      ]
+    },
+    {
+      "name-fa" : "آسان بیت کوین",
+      "name-en" : "asanbtc",
+      "icon" : "/asanbtc_icon.jpg",
+      "website" : "https://asanbtc.com/",
+      "email" : "",
+      "phone" : "021-44895362",
+      "description" : "",
+      "applications" : [
+        {
+          "name" : "دانلود مستقیم",
+          "url" : "https://www.uplooder.net/files/aa89888c87da2b03488038c310ded22b/AsanBTC.apk.html"
+        }
+      ],
+      "social" : [
+        {
+          "name" : "اینستاگرام",
+          "url" : "https://www.instagram.com/AsanBTCcom"
+        },
+        {
+          "name" : "تلگرام",
+          "url" : "https://t.me/asanbitcoin"
+        }
+      ]
+    },
+    {
+      "name-fa" : "ارزپایا",
+      "name-en" : "arzpaya",
+      "icon" : "/arzpaya_icon.jpg",
+      "website" : "https://arzpaya.com/",
+      "email" : "support@arzpaya.com",
+      "phone" : "021-28427250",
+      "description" : "خرید و فروش ارز دیجیتال در صرافی امن و معتبر ارزپایا",
+      "applications" : [
+       
+      ],
+      "social" : [
+        {
+          "name" : "تلگرام",
+          "url" : "https://t.me/arzpaya"
+        },
+        {
+          "name" : "اینستاگرام",
+          "url" : "https://instagram.com/arzpaya"
+        },
+        {
+          "name" : "لینکدین",
+          "url" : "https://www.linkedin.com/company/arzpaya"
+        },
+        {
+          "name" : "توییتر",
+          "url" : "https://twitter.com/ArzPaya"
+        },
+        {
+          "name" : "آپارات",
+          "url" : "https://www.aparat.com/arzpaya"
+        }
+      ]
+    },
+    {
+      "name-fa" : "ارزان بیت",
+      "name-en" : "arzanbit",
+      "icon" : "/arzanbit_icon.jpg",
+      "website" : "https://arzanbit.com/",
+      "email" : "info@arzanbit.com",
+      "phone" : "09057864904",
+      "description" : "خدمات خرید و فروش",
+      "applications" : [
+        
+      ],
+      "social" : [
+        {
+          "name" : "اینستاگرام",
+          "url" : "https://instagram.com/arzanbit"
         }
       ]
     },
     {
       "name-fa" : "",
-      "name-en" : "",
-      "icon" : "",
-      "website" : "",
-      "email" : "",
-      "phone" : "",
-      "description" : "",
+      "name-en" : "bitpin",
+      "icon" : "/bitpin_icon.jpg",
+      "website" : "https://bitpin.ir/",
+      "email" : "support@bitpin.ir",
+      "phone" : "021-28428602",
+      "description" : "بازار حرفه‌ای خرید و فروش",
       "applications" : [
         {
-          "name" : "",
-          "url" : ""
+          "name" : "مایکت",
+          "url" : "https://myket.ir/app/io.bitpin.app"
         },
         {
-          "name" : "",
-          "url" : ""
-        },
-        {
-          "name" : "",
-          "url" : ""
-        },
-        {
-          "name" : "",
-          "url" : ""
+          "name" : "کافه بازار",
+          "url" : "https://cafebazaar.ir/app/io.bitpin.app"
         }
       ],
       "social" : [
         {
-          "name" : "",
-          "url" : ""
+          "name" : "اینستاگرام",
+          "url" : "https://instagram.com/bitpinmarket"
         },
         {
-          "name" : "",
-          "url" : ""
+          "name" : "تلگرام",
+          "url" : "https://t.me/bitpin"
         },
         {
-          "name" : "",
-          "url" : ""
-        },
-        {
-          "name" : "",
-          "url" : ""
-        }
-      ]
-    },
-    {
-      "name-fa" : "",
-      "name-en" : "",
-      "icon" : "",
-      "website" : "",
-      "email" : "",
-      "phone" : "",
-      "description" : "",
-      "applications" : [
-        {
-          "name" : "",
-          "url" : ""
-        },
-        {
-          "name" : "",
-          "url" : ""
-        },
-        {
-          "name" : "",
-          "url" : ""
-        },
-        {
-          "name" : "",
-          "url" : ""
-        }
-      ],
-      "social" : [
-        {
-          "name" : "",
-          "url" : ""
-        },
-        {
-          "name" : "",
-          "url" : ""
-        },
-        {
-          "name" : "",
-          "url" : ""
-        },
-        {
-          "name" : "",
-          "url" : ""
-        }
-      ]
-    },
-    {
-      "name-fa" : "",
-      "name-en" : "",
-      "icon" : "",
-      "website" : "",
-      "email" : "",
-      "phone" : "",
-      "description" : "",
-      "applications" : [
-        {
-          "name" : "",
-          "url" : ""
-        },
-        {
-          "name" : "",
-          "url" : ""
-        },
-        {
-          "name" : "",
-          "url" : ""
-        },
-        {
-          "name" : "",
-          "url" : ""
-        }
-      ],
-      "social" : [
-        {
-          "name" : "",
-          "url" : ""
-        },
-        {
-          "name" : "",
-          "url" : ""
-        },
-        {
-          "name" : "",
-          "url" : ""
-        },
-        {
-          "name" : "",
-          "url" : ""
-        }
-      ]
-    },
-    {
-      "name-fa" : "",
-      "name-en" : "",
-      "icon" : "",
-      "website" : "",
-      "email" : "",
-      "phone" : "",
-      "description" : "",
-      "applications" : [
-        {
-          "name" : "",
-          "url" : ""
-        },
-        {
-          "name" : "",
-          "url" : ""
-        },
-        {
-          "name" : "",
-          "url" : ""
-        },
-        {
-          "name" : "",
-          "url" : ""
-        }
-      ],
-      "social" : [
-        {
-          "name" : "",
-          "url" : ""
-        },
-        {
-          "name" : "",
-          "url" : ""
-        },
-        {
-          "name" : "",
-          "url" : ""
-        },
-        {
-          "name" : "",
-          "url" : ""
-        }
-      ]
-    },
-    {
-      "name-fa" : "",
-      "name-en" : "",
-      "icon" : "",
-      "website" : "",
-      "email" : "",
-      "phone" : "",
-      "description" : "",
-      "applications" : [
-        {
-          "name" : "",
-          "url" : ""
-        },
-        {
-          "name" : "",
-          "url" : ""
-        },
-        {
-          "name" : "",
-          "url" : ""
-        },
-        {
-          "name" : "",
-          "url" : ""
-        }
-      ],
-      "social" : [
-        {
-          "name" : "",
-          "url" : ""
-        },
-        {
-          "name" : "",
-          "url" : ""
-        },
-        {
-          "name" : "",
-          "url" : ""
-        },
-        {
-          "name" : "",
-          "url" : ""
-        }
-      ]
-    },
-    {
-      "name-fa" : "",
-      "name-en" : "",
-      "icon" : "",
-      "website" : "",
-      "email" : "",
-      "phone" : "",
-      "description" : "",
-      "applications" : [
-        {
-          "name" : "",
-          "url" : ""
-        },
-        {
-          "name" : "",
-          "url" : ""
-        },
-        {
-          "name" : "",
-          "url" : ""
-        },
-        {
-          "name" : "",
-          "url" : ""
-        }
-      ],
-      "social" : [
-        {
-          "name" : "",
-          "url" : ""
-        },
-        {
-          "name" : "",
-          "url" : ""
-        },
-        {
-          "name" : "",
-          "url" : ""
-        },
-        {
-          "name" : "",
-          "url" : ""
-        }
-      ]
-    },
-    {
-      "name-fa" : "",
-      "name-en" : "",
-      "icon" : "",
-      "website" : "",
-      "email" : "",
-      "phone" : "",
-      "description" : "",
-      "applications" : [
-        {
-          "name" : "",
-          "url" : ""
-        },
-        {
-          "name" : "",
-          "url" : ""
-        },
-        {
-          "name" : "",
-          "url" : ""
-        },
-        {
-          "name" : "",
-          "url" : ""
-        }
-      ],
-      "social" : [
-        {
-          "name" : "",
-          "url" : ""
-        },
-        {
-          "name" : "",
-          "url" : ""
-        },
-        {
-          "name" : "",
-          "url" : ""
-        },
-        {
-          "name" : "",
-          "url" : ""
-        }
-      ]
-    },
-    {
-      "name-fa" : "",
-      "name-en" : "",
-      "icon" : "",
-      "website" : "",
-      "email" : "",
-      "phone" : "",
-      "description" : "",
-      "applications" : [
-        {
-          "name" : "",
-          "url" : ""
-        },
-        {
-          "name" : "",
-          "url" : ""
-        },
-        {
-          "name" : "",
-          "url" : ""
-        },
-        {
-          "name" : "",
-          "url" : ""
-        }
-      ],
-      "social" : [
-        {
-          "name" : "",
-          "url" : ""
-        },
-        {
-          "name" : "",
-          "url" : ""
-        },
-        {
-          "name" : "",
-          "url" : ""
-        },
-        {
-          "name" : "",
-          "url" : ""
-        }
-      ]
-    },
-    {
-      "name-fa" : "",
-      "name-en" : "",
-      "icon" : "",
-      "website" : "",
-      "email" : "",
-      "phone" : "",
-      "description" : "",
-      "applications" : [
-        {
-          "name" : "",
-          "url" : ""
-        },
-        {
-          "name" : "",
-          "url" : ""
-        },
-        {
-          "name" : "",
-          "url" : ""
-        },
-        {
-          "name" : "",
-          "url" : ""
-        }
-      ],
-      "social" : [
-        {
-          "name" : "",
-          "url" : ""
-        },
-        {
-          "name" : "",
-          "url" : ""
-        },
-        {
-          "name" : "",
-          "url" : ""
-        },
-        {
-          "name" : "",
-          "url" : ""
-        }
-      ]
-    },
-    {
-      "name-fa" : "",
-      "name-en" : "",
-      "icon" : "",
-      "website" : "",
-      "email" : "",
-      "phone" : "",
-      "description" : "",
-      "applications" : [
-        {
-          "name" : "",
-          "url" : ""
-        },
-        {
-          "name" : "",
-          "url" : ""
-        },
-        {
-          "name" : "",
-          "url" : ""
-        },
-        {
-          "name" : "",
-          "url" : ""
-        }
-      ],
-      "social" : [
-        {
-          "name" : "",
-          "url" : ""
-        },
-        {
-          "name" : "",
-          "url" : ""
-        },
-        {
-          "name" : "",
-          "url" : ""
-        },
-        {
-          "name" : "",
-          "url" : ""
-        }
-      ]
-    },
-    {
-      "name-fa" : "",
-      "name-en" : "",
-      "icon" : "",
-      "website" : "",
-      "email" : "",
-      "phone" : "",
-      "description" : "",
-      "applications" : [
-        {
-          "name" : "",
-          "url" : ""
-        },
-        {
-          "name" : "",
-          "url" : ""
-        },
-        {
-          "name" : "",
-          "url" : ""
-        },
-        {
-          "name" : "",
-          "url" : ""
-        }
-      ],
-      "social" : [
-        {
-          "name" : "",
-          "url" : ""
-        },
-        {
-          "name" : "",
-          "url" : ""
-        },
-        {
-          "name" : "",
-          "url" : ""
-        },
-        {
-          "name" : "",
-          "url" : ""
-        }
-      ]
-    },
-    {
-      "name-fa" : "",
-      "name-en" : "",
-      "icon" : "",
-      "website" : "",
-      "email" : "",
-      "phone" : "",
-      "description" : "",
-      "applications" : [
-        {
-          "name" : "",
-          "url" : ""
-        },
-        {
-          "name" : "",
-          "url" : ""
-        },
-        {
-          "name" : "",
-          "url" : ""
-        },
-        {
-          "name" : "",
-          "url" : ""
-        }
-      ],
-      "social" : [
-        {
-          "name" : "",
-          "url" : ""
-        },
-        {
-          "name" : "",
-          "url" : ""
-        },
-        {
-          "name" : "",
-          "url" : ""
-        },
-        {
-          "name" : "",
-          "url" : ""
-        }
-      ]
-    },
-    {
-      "name-fa" : "",
-      "name-en" : "",
-      "icon" : "",
-      "website" : "",
-      "email" : "",
-      "phone" : "",
-      "description" : "",
-      "applications" : [
-        {
-          "name" : "",
-          "url" : ""
-        },
-        {
-          "name" : "",
-          "url" : ""
-        },
-        {
-          "name" : "",
-          "url" : ""
-        },
-        {
-          "name" : "",
-          "url" : ""
-        }
-      ],
-      "social" : [
-        {
-          "name" : "",
-          "url" : ""
-        },
-        {
-          "name" : "",
-          "url" : ""
-        },
-        {
-          "name" : "",
-          "url" : ""
-        },
-        {
-          "name" : "",
-          "url" : ""
-        }
-      ]
-    },
-    {
-      "name-fa" : "",
-      "name-en" : "",
-      "icon" : "",
-      "website" : "",
-      "email" : "",
-      "phone" : "",
-      "description" : "",
-      "applications" : [
-        {
-          "name" : "",
-          "url" : ""
-        },
-        {
-          "name" : "",
-          "url" : ""
-        },
-        {
-          "name" : "",
-          "url" : ""
-        },
-        {
-          "name" : "",
-          "url" : ""
-        }
-      ],
-      "social" : [
-        {
-          "name" : "",
-          "url" : ""
-        },
-        {
-          "name" : "",
-          "url" : ""
-        },
-        {
-          "name" : "",
-          "url" : ""
-        },
-        {
-          "name" : "",
-          "url" : ""
-        }
-      ]
-    },
-    {
-      "name-fa" : "",
-      "name-en" : "",
-      "icon" : "",
-      "website" : "",
-      "email" : "",
-      "phone" : "",
-      "description" : "",
-      "applications" : [
-        {
-          "name" : "",
-          "url" : ""
-        },
-        {
-          "name" : "",
-          "url" : ""
-        },
-        {
-          "name" : "",
-          "url" : ""
-        },
-        {
-          "name" : "",
-          "url" : ""
-        }
-      ],
-      "social" : [
-        {
-          "name" : "",
-          "url" : ""
-        },
-        {
-          "name" : "",
-          "url" : ""
-        },
-        {
-          "name" : "",
-          "url" : ""
-        },
-        {
-          "name" : "",
-          "url" : ""
+          "name" : "توییتر",
+          "url" : "https://twitter.com/bitpinmarket"
         }
       ]
     }
