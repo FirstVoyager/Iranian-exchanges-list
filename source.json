@@ -424,7 +424,7 @@
     {
       "name-fa" : "بیتکس 24",
       "name-en" : "itex24",
-      "icon" : "/Bitex24_icon.png",
+      "icon" : "/bitex24_icon.png",
       "website" : "https://bitex24.com/",
       "email" : "support@bitex24.com",
       "phone" : "021-91035417",
@@ -758,7 +758,7 @@
       ]
     },
     {
-      "name-fa" : "",
+      "name-fa" : "بیت پین",
       "name-en" : "bitpin",
       "icon" : "/bitpin_icon.jpg",
       "website" : "https://bitpin.ir/",
